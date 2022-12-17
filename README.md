@@ -25,9 +25,8 @@ I started actively coding after joining [Alterra Academy](https://academy.alterr
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Framework
-
+![](https://img.shields.io/badge/Docker-0078d7?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=echo&logoColor=white)
 
 #### Database
