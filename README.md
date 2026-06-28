@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mochammad Dany</h1>
+<h1 align="center">Hi 👋, I'm Mochammad Dany Saputra</h1>
 
 <h3 align="center">
 Full Stack Developer | Go • NestJS • React • AWS
@@ -43,15 +43,6 @@ I enjoy designing clean architectures, developing RESTful APIs, optimizing datab
 <p>
 <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs" />
 </p>
-
-### Backend
-
-- Fiber
-- Echo
-- REST API
-- JWT
-- Google OAuth
-- Clean Architecture
 
 ### Database
 
