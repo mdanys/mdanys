@@ -5,7 +5,7 @@ Full Stack Developer | Go • NestJS • React • AWS
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;Go+%7C+NestJS+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
