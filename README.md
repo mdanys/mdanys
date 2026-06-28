@@ -1,64 +1,105 @@
-<h2 align="center"><b>Hi there, I'm Dany </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h1 align="center">Hi 👋, I'm Mochammad Dany</h1>
+
+<h3 align="center">
+Full Stack Developer | Go • NestJS • React • AWS
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Developer;Always%20learning%20new%20things&font=Calibri&Code&center=true&width=440&height=45&color=3366CC&vCenter=true&size=22&pause=1000" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
 </p>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/112848152/203510089-bcb863c6-e9f0-4db6-abb1-a9b4f8cb2a6c.gif" width = 250px></picture>
+<p align="center">
+<a href="https://github.com/mdanys">
+<img src="https://komarev.com/ghpvc/?username=mdanys&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+</p>
 
-I started actively coding after joining [Alterra Academy](https://academy.alterra.id/) as a Back-End Developer. My work focuses on Data and Backend Architecture. Easily adapt to new things.
+---
 
-- Currently learning Golang,
-- Available for work and collaborations.
+## 👨‍💻 About Me
 
-## Skills:
+I'm a **Full Stack Developer** passionate about building scalable, secure, and maintainable web applications.
 
-#### Languages
+My primary focus is backend development with **Go** and **NestJS**, while also building modern frontend applications using **React** and **TypeScript**.
 
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+I enjoy designing clean architectures, developing RESTful APIs, optimizing databases, and deploying applications with Docker and AWS.
 
-#### Tools and Technologies
+- 🚀 Building scalable web applications
+- ☁️ Learning Microservices & Kubernetes
+- 💼 Open to Full Stack & Backend opportunities
 
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Docker-0078d7?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=echo&logoColor=white)
+---
 
-#### Database
+## 🛠 Tech Stack
 
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages
 
-#### Cloud Knowledge
+<p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,html,css" />
+</p>
 
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Frameworks
 
-## Connect with me:
+<p>
+<img src="https://skillicons.dev/icons?i=react,nestjs,nodejs" />
+</p>
 
-<p align = "center">
-  
-  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/mochammaddany/)
-  [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/m.dany.s)
-  [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:mochammaddany@gmail.com)
+### Backend
 
-| <a href="https://github.com/mdanys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdanys&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dany's github stats" /></a> | <a href="https://github.com/mdanys/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanys&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-<!--
-**mdanys/mdanys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Fiber
+- Echo
+- REST API
+- JWT
+- Google OAuth
+- Clean Architecture
 
-Here are some ideas to get you started:
+### Database
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdanys&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanys&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanys&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mochammaddany">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mochammaddany@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/m.dany.s">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Build solutions that are scalable, maintainable, and meaningful."</i>
+</p>
